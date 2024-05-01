@@ -10,7 +10,7 @@
                 <a id="mail" href="mailto:phamtrinhtheanh@gmail.com">phamtrinhtheanh@gmail.com</a>
             </div>
             <div class="login">
-                <a href="#">Đăng nhập</a>
+                <a href="#" data-toggle="modal" data-target="#exampleModal">Đăng nhập</a>
                 <a href="#">Đăng kí</a>
             </div>
         </div>
@@ -22,7 +22,7 @@
             <a href="" class="logo">dental<span>Care.</span></a>
             <nav class="nav">
                 <a href="">Trang chủ</a>
-                <a href="">Dịch vụ</a>
+                <a href="#" id="servicesscroll">Dịch vụ</a>
                 <a href="">Về chúng tôi</a>
                 <a href="">Liên hệ</a>
             </nav>
